@@ -1,5 +1,5 @@
 # Fut-Tracker-Projets
-This is repository is to display a visual of the private projects of Fut Tracker.
+This is repository is to display a visual of my private project of Fut Tracker.
 
 An application that all users that play the FIFA video game, can use to log their performance. They can input data at the end of game stats from a simple game and a weekend league session in order to see their performance.  Fut tracker uses charts library to display charts base on the user input such as (win percentage, goal concede, passing accuracy), Core Data and user default to persist data between multiple sessions. 
 
